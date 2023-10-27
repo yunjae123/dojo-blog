@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import BlogList from "./BlogList";
 import useFetch from "./useFetch";
 // npx json-server --watch data/db.json --port 8000
+// npm install react-router-dom
 
 const Home = () => {
   const {
