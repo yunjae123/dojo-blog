@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import BlogList from "./BlogList";
+// npx json-server --watch data/db.json --port 8000
 
 const Home = () => {
   const [blogs, setBlogs] = useState(null);
@@ -8,11 +9,16 @@ const Home = () => {
   useEffect(() => {
     fetch("http://localhost:8000/blogs")
       .then((res) => {
+        if (res.ok) {
+        }
         return res.json();
       })
       .then((data) => {
         setBlogs(data);
         setIsPending(false);
+      })
+      .catch((err) => {
+        console.log(err.message);
       });
   }, []);
 
