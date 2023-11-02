@@ -2,13 +2,13 @@
   "blogs": [
     {
       "title": "My first blog",
-      "body": "Lorem ipsum",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In eum deserunt officiis reprehenderit, consectetur odit neque! Assumenda, sit dolore possimus obcaecati natus deserunt veniam illum vero consequatur, ab, maxime modi.",
       "author": "mario",
       "id": 1
     },
     {
       "title": "Opening Party!",
-      "body": "Lorem ipsum dolor",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In eum deserunt officiis reprehenderit, consectetur odit neque! Assumenda, sit dolore possimus obcaecati natus deserunt veniam illum vero consequatur, ab, maxime modi.",
       "author": "yoshi",
       "id": 2
     }
