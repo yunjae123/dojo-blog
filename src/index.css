@@ -72,14 +72,14 @@
   margin: 20px 0;
 }
 
-/* .blog-details button {
+.blog-details button {
   background: #f1356d;
   color: #fff;
   border: 0;
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
-} */
+}
 
 /* create new blog form */
 .create {
@@ -92,6 +92,7 @@
   text-align: left;
   display: block;
 }
+
 .create h2 {
   font-size: 20px;
   color: #f1356d;
@@ -108,6 +109,7 @@
   box-sizing: border-box;
   display: block;
 }
+
 .create button {
   background: #f1356d;
   color: #fff;
