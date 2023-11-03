@@ -11,6 +11,18 @@
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In eum deserunt officiis reprehenderit, consectetur odit neque! Assumenda, sit dolore possimus obcaecati natus deserunt veniam illum vero consequatur, ab, maxime modi.",
       "author": "yoshi",
       "id": 2
+    },
+    {
+      "title": "Welcome 2",
+      "body": "testing this blog\n",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Welcome 3",
+      "body": "Testing another blog",
+      "author": "yoshi",
+      "id": 4
     }
   ]
 }
